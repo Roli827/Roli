@@ -4,3 +4,4 @@ This is my first Git repository.
 Author- Roli
 <br>
 Goal
+aiming somethig is not all about thinking it all about doing somethig that you want 
